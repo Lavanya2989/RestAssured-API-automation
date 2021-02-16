@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-10T22:55:29 NZDT" name="Default suite" finished-at="2021-02-10T22:55:32 NZDT" duration-ms="2795">
+    <groups>
+    </groups>
+    <test started-at="2021-02-10T22:55:29 NZDT" name="Default test" finished-at="2021-02-10T22:55:32 NZDT" duration-ms="2795">
+      <class name="schema_validation.schema">
+        <test-method signature="xml_dtd_schema_validation()[pri:0, instance:schema_validation.schema@4c1d9d4b]" started-at="2021-02-10T22:55:29 NZDT" name="xml_dtd_schema_validation" finished-at="2021-02-10T22:55:32 NZDT" duration-ms="2754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xml_dtd_schema_validation -->
+      </class> <!-- schema_validation.schema -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
